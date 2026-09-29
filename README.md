@@ -30,3 +30,8 @@ O **PhyLabs** é um projeto criado para facilitar o aprendizado de física atrav
 
 <img width="800" height="450" alt="2026-07-3022-18-13-ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/197b601e-1b9f-4d4d-863d-6200aa3cf679" />
 
+
+Imagens utilizadas para o desenvolvimento do aplicativo: 
+Ícone: 
+<img width="1024" height="1024" alt="Phy_LabsIcon" src="https://github.com/user-attachments/assets/7f7d182d-dfcf-4fa3-8a1d-443debb2bf22" />
+
